@@ -1,6 +1,6 @@
 <m-scene>
   <m-character 
-    src="https://popvisly.github.io/villains-files/blackout.glb"
+    src="https://popvisly.github.io/villains-files/Blackout.glb"
     position="0 0 0"
     rotation="0 180 0"
     scale="1 1 1">
